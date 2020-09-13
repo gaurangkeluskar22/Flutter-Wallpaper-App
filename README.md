@@ -7,12 +7,12 @@
 A new Flutter project.
 
 ## Dependencies
-  http:
-  flutter_swiper: ^1.1.6
-  wallpaperplugin: ^0.1.1
-  dio: ^3.0.9
-  path_provider:
-  permission_handler: ^4.2.0
+- http:
+- flutter_swiper: ^1.1.6
+- wallpaperplugin: ^0.1.1
+- dio: ^3.0.9
+- path_provider:
+- permission_handler: ^4.2.0
   
 <p>
    &nbsp&nbsp&nbsp&nbsp
